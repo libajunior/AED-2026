@@ -3,6 +3,7 @@
 
 # Compiled class file
 *.class
+*.lst
 
 # Log file
 *.log
@@ -30,3 +31,4 @@ replay_pid*
 /Aula06/target/
 /Aula07/target/
 /Aula08/target/
+/*/target/*
